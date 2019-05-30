@@ -1,6 +1,5 @@
 # ChIP-seq processing pipeline
 An [R](https://www.r-project.org/) package for analysis of ChIP-seq and other functional sequencing data.
-Please see [package homepage](http://compbio.med.harvard.edu/Supplements/ChIP-seq/) for details.
 
 ## Requirements
 A unix-flavored OS with R (>= 3.3.0) installed.
